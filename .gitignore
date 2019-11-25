@@ -1,3 +1,6 @@
 venv-tokenizer/
 .ipynb_checkpoints/
 notebook/
+tokenization_errors/
+web_scrapping/
+
